@@ -1,4 +1,4 @@
-inancial Risk Prediction App with Random Forest
+Financial Risk Prediction App with Random Forest
 
 Overview
 
